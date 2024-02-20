@@ -1,0 +1,10 @@
+D:\c# programming\menuestripdemo\bin\Debug\menuestripdemo.exe.config
+D:\c# programming\menuestripdemo\bin\Debug\menuestripdemo.exe
+D:\c# programming\menuestripdemo\bin\Debug\menuestripdemo.pdb
+D:\c# programming\menuestripdemo\obj\Debug\menuestripdemo.csprojAssemblyReference.cache
+D:\c# programming\menuestripdemo\obj\Debug\menuestripdemo.Form1.resources
+D:\c# programming\menuestripdemo\obj\Debug\menuestripdemo.Properties.Resources.resources
+D:\c# programming\menuestripdemo\obj\Debug\menuestripdemo.csproj.GenerateResource.cache
+D:\c# programming\menuestripdemo\obj\Debug\menuestripdemo.csproj.CoreCompileInputs.cache
+D:\c# programming\menuestripdemo\obj\Debug\menuestripdemo.exe
+D:\c# programming\menuestripdemo\obj\Debug\menuestripdemo.pdb
